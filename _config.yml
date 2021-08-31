@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "privacy.md", title: "Privacy"}
-  - {file: "impressum.md", title: "Impressum"}
+  - {file: "impressum.md", title: "Legal Notice"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adm.applic@gmail.com"}
